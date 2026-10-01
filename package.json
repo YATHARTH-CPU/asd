@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node server.js"
+    "server": "node server.js",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,14 @@
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshx7/WORKSHOP_AD.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shivanshx7/WORKSHOP_AD/issues"
+  },
+  "homepage": "https://github.com/shivanshx7/WORKSHOP_AD#readme"
 }
